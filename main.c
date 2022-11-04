@@ -2,6 +2,7 @@
 int main() {
     float a;
     char b;
+	//привет
     printf("Enter a real number:");
     scanf("%f", &a);
     printf("Enter a symbol:");
